@@ -6,6 +6,10 @@
 
 Covers: deciding whether an SMSF suits you, how super and the SMSF structure work, using an AI co-pilot safely, trustees and structures, the establishment sequence, the investment strategy, contributions and caps, what a fund can and cannot invest in, record-keeping and minutes, estate-planning basics and death-benefit nominations, the annual audit and lodgement obligations, costs and providers, knowing when to bring in a professional, and a first-year roadmap with a reusable prompt pack. Does NOT give personal financial, tax, or legal advice, and does not cover advanced strategy (detailed LRBA structuring, NALI engineering, complex pension/estate design) beyond a 'know when to get help' level.
 
+## Read Online
+
+Read the book in the browser on the dedicated website: [https://imehr.github.io/smsf-from-scratch-site/](https://imehr.github.io/smsf-from-scratch-site/). The web version is the best place to browse chapters and share the book; this repository holds the downloadable editions.
+
 ## Download
 
 | Format | File |
