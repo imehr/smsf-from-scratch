@@ -12,12 +12,15 @@ Read the book in the browser on the dedicated website: [https://imehr.github.io/
 
 ## Download
 
+All formats are attached to the [v0.1.0 GitHub Release](https://github.com/imehr/smsf-from-scratch/releases/tag/smsf-from-scratch-v0.1.0) ([latest](https://github.com/imehr/smsf-from-scratch/releases/latest)).
+
+
 | Format | File |
 |--------|------|
-| Paged HTML Preview | [smsf-from-scratch-paged.html](smsf-from-scratch-paged.html) |
-| ePub | [smsf-from-scratch.epub](smsf-from-scratch.epub) |
-| HTML | [smsf-from-scratch.html](smsf-from-scratch.html) |
-| PDF | [smsf-from-scratch.pdf](smsf-from-scratch.pdf) |
+| Paged HTML Preview | [smsf-from-scratch-paged.html](https://github.com/imehr/smsf-from-scratch/releases/download/smsf-from-scratch-v0.1.0/smsf-from-scratch-paged.html) |
+| ePub | [smsf-from-scratch.epub](https://github.com/imehr/smsf-from-scratch/releases/download/smsf-from-scratch-v0.1.0/smsf-from-scratch.epub) |
+| HTML | [smsf-from-scratch.html](https://github.com/imehr/smsf-from-scratch/releases/download/smsf-from-scratch-v0.1.0/smsf-from-scratch.html) |
+| PDF | [smsf-from-scratch.pdf](https://github.com/imehr/smsf-from-scratch/releases/download/smsf-from-scratch-v0.1.0/smsf-from-scratch.pdf) |
 
 ## What This Book Covers
 
